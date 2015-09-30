@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易像象述
-#+DATE: 2015-09-23 09:35:15
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:58:07.423104
+#+PROPERTY: ID KR1a0108
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0108_WYG_002-1a>¶
 欽定四庫全書¶
 　周易像象述卷二¶
@@ -1118,4 +1120,3 @@
 　乾坤泰否之分泰否乾坤之合知乾坤六爻作用與¶
 　泰否爻義相通則六十卦皆可類通¶
 　周易像象述卷二¶
-

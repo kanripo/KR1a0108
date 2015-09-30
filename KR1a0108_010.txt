@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易像象述
-#+DATE: 2015-09-23 09:35:15
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 21:58:07.632065
+#+PROPERTY: ID KR1a0108
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1a0108_WYG_010-1a>¶
 欽定四庫全書¶
 　周易像象述卷十¶
@@ -1010,4 +1012,3 @@
 　¶
 　¶
 　周易像象述卷十¶
-
